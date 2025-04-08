@@ -1,0 +1,2 @@
+CREATE DATABASE Universitate COLLATE SQL_Romanian_CP1250_CS_AS;
+GO
